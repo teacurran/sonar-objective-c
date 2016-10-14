@@ -295,5 +295,21 @@
       <repositoryKey>OCLint</repositoryKey>
       <key>use number literal</key>
     </rule>
+	<rule>
+		<repositoryKey>OCLint</repositoryKey>
+		<key>missing hash method</key>
+	</rule>
+	<rule>
+		<repositoryKey>OCLint</repositoryKey>
+		<key>missing call to base method</key>
+	</rule>
+	<rule>
+		<repositoryKey>OCLint</repositoryKey>
+		<key>calling prohibited method</key>
+	</rule>
+	<rule>
+		<repositoryKey>OCLint</repositoryKey>
+		<key>missing abstract method implementation</key>
+	</rule>
   </rules>
 </profile>

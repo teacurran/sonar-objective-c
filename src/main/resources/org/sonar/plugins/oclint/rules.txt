@@ -531,3 +531,36 @@ Summary: Name: use object subscripting
 Severity: 1
 Category: OCLint
 
+missing hash method
+----------
+
+Summary: Name: missing hash method
+
+Severity: 1
+Category: OCLint
+
+missing call to base method
+----------
+
+Summary: Name: missing call to base method
+
+Severity: 1
+Category: OCLint
+
+calling prohibited method
+----------
+
+Summary: Name: calling prohibited method
+
+Severity: 1
+Category: OCLint
+
+missing abstract method implementation
+----------
+
+Summary: Name: missing abstract method implementation
+
+Severity: 1
+Category: OCLint
+
+
